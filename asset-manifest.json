@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.197788aa.css",
-    "main.js": "./static/js/main.db60d14b.js",
-    "static/js/198.f773c646.chunk.js": "./static/js/198.f773c646.chunk.js",
-    "static/js/239.235a1e66.chunk.js": "./static/js/239.235a1e66.chunk.js",
-    "static/js/213.cd44ad99.chunk.js": "./static/js/213.cd44ad99.chunk.js",
-    "static/js/455.2bfc2e82.chunk.js": "./static/js/455.2bfc2e82.chunk.js",
-    "static/js/453.83fd9a10.chunk.js": "./static/js/453.83fd9a10.chunk.js",
-    "static/media/bg1.jpg": "./static/media/bg1.0791727adc5e641fe9a3.jpg",
-    "static/media/onboard1.png": "./static/media/onboard1.998715b0d6673d6f5f0b.png",
-    "static/media/marker.png": "./static/media/marker.d3dd0c37ccd77443ac93.png",
-    "static/media/logo-gaztok.png": "./static/media/logo-gaztok.d10ff855388f1b4e3a09.png",
-    "static/media/white.png": "./static/media/white.ed37ec8f0226270f3d90.png",
-    "index.html": "./index.html",
-    "main.197788aa.css.map": "./static/css/main.197788aa.css.map",
-    "main.db60d14b.js.map": "./static/js/main.db60d14b.js.map",
-    "198.f773c646.chunk.js.map": "./static/js/198.f773c646.chunk.js.map",
-    "239.235a1e66.chunk.js.map": "./static/js/239.235a1e66.chunk.js.map",
-    "213.cd44ad99.chunk.js.map": "./static/js/213.cd44ad99.chunk.js.map",
-    "455.2bfc2e82.chunk.js.map": "./static/js/455.2bfc2e82.chunk.js.map",
-    "453.83fd9a10.chunk.js.map": "./static/js/453.83fd9a10.chunk.js.map"
+    "main.css": "/gaztok-co/static/css/main.197788aa.css",
+    "main.js": "/gaztok-co/static/js/main.bc6356db.js",
+    "static/js/198.f773c646.chunk.js": "/gaztok-co/static/js/198.f773c646.chunk.js",
+    "static/js/239.235a1e66.chunk.js": "/gaztok-co/static/js/239.235a1e66.chunk.js",
+    "static/js/213.cd44ad99.chunk.js": "/gaztok-co/static/js/213.cd44ad99.chunk.js",
+    "static/js/455.2bfc2e82.chunk.js": "/gaztok-co/static/js/455.2bfc2e82.chunk.js",
+    "static/js/453.83fd9a10.chunk.js": "/gaztok-co/static/js/453.83fd9a10.chunk.js",
+    "static/media/bg1.jpg": "/gaztok-co/static/media/bg1.0791727adc5e641fe9a3.jpg",
+    "static/media/onboard1.png": "/gaztok-co/static/media/onboard1.998715b0d6673d6f5f0b.png",
+    "static/media/marker.png": "/gaztok-co/static/media/marker.d3dd0c37ccd77443ac93.png",
+    "static/media/logo-gaztok.png": "/gaztok-co/static/media/logo-gaztok.d10ff855388f1b4e3a09.png",
+    "static/media/white.png": "/gaztok-co/static/media/white.ed37ec8f0226270f3d90.png",
+    "index.html": "/gaztok-co/index.html",
+    "main.197788aa.css.map": "/gaztok-co/static/css/main.197788aa.css.map",
+    "main.bc6356db.js.map": "/gaztok-co/static/js/main.bc6356db.js.map",
+    "198.f773c646.chunk.js.map": "/gaztok-co/static/js/198.f773c646.chunk.js.map",
+    "239.235a1e66.chunk.js.map": "/gaztok-co/static/js/239.235a1e66.chunk.js.map",
+    "213.cd44ad99.chunk.js.map": "/gaztok-co/static/js/213.cd44ad99.chunk.js.map",
+    "455.2bfc2e82.chunk.js.map": "/gaztok-co/static/js/455.2bfc2e82.chunk.js.map",
+    "453.83fd9a10.chunk.js.map": "/gaztok-co/static/js/453.83fd9a10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.197788aa.css",
-    "static/js/main.db60d14b.js"
+    "static/js/main.bc6356db.js"
   ]
 }
