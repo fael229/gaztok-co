@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gaztok-co/static/css/main.197788aa.css",
-    "main.js": "/gaztok-co/static/js/main.191ca0b9.js",
+    "main.js": "/gaztok-co/static/js/main.11bbbc8e.js",
     "static/js/198.f773c646.chunk.js": "/gaztok-co/static/js/198.f773c646.chunk.js",
     "static/js/239.235a1e66.chunk.js": "/gaztok-co/static/js/239.235a1e66.chunk.js",
     "static/js/213.cd44ad99.chunk.js": "/gaztok-co/static/js/213.cd44ad99.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/white.png": "/gaztok-co/static/media/white.ed37ec8f0226270f3d90.png",
     "index.html": "/gaztok-co/index.html",
     "main.197788aa.css.map": "/gaztok-co/static/css/main.197788aa.css.map",
-    "main.191ca0b9.js.map": "/gaztok-co/static/js/main.191ca0b9.js.map",
+    "main.11bbbc8e.js.map": "/gaztok-co/static/js/main.11bbbc8e.js.map",
     "198.f773c646.chunk.js.map": "/gaztok-co/static/js/198.f773c646.chunk.js.map",
     "239.235a1e66.chunk.js.map": "/gaztok-co/static/js/239.235a1e66.chunk.js.map",
     "213.cd44ad99.chunk.js.map": "/gaztok-co/static/js/213.cd44ad99.chunk.js.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.197788aa.css",
-    "static/js/main.191ca0b9.js"
+    "static/js/main.11bbbc8e.js"
   ]
 }
